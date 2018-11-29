@@ -1,2 +1,2 @@
-# -C-Updated-on-Oct-2-CIS269_Assignment-4
+# CIS-269 Assignment #4
 Implement a queue as a circular buffer
